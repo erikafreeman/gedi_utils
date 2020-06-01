@@ -1,4 +1,14 @@
 
+# # --- Find GEDI files of interest
+
+# Use LP DAAC GEDI Finder to find GEDI orbits of interest
+
+# https://lpdaacsvc.cr.usgs.gov/services/gedifinder
+
+# # --- Prep data with LP DAAC Data Prep Scripts
+
+# https://git.earthdata.nasa.gov/projects/LPDUR/repos/gedi-subsetter/browse
+
 # Available GEDI products and versions
 gedi_products_list = ['GEDI01_B', 'GEDI02_A', 'GEDI02_B']
 gedi_versions_list = ['001']
