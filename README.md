@@ -1,2 +1,2 @@
 # gedi_utils
-Scripts to find, download and pre-process GEDI Data (https://gedi.umd.edu/)
+Scripts to retrieve, download and pre-process GEDI Data (https://gedi.umd.edu/)
